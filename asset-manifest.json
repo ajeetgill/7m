@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.e2884097.chunk.css",
-    "main.js": "/static/js/main.452e181a.chunk.js",
-    "main.js.map": "/static/js/main.452e181a.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.3b7d859c.js",
-    "runtime-main.js.map": "/static/js/runtime-main.3b7d859c.js.map",
-    "static/js/2.8111e5d8.chunk.js": "/static/js/2.8111e5d8.chunk.js",
-    "static/js/2.8111e5d8.chunk.js.map": "/static/js/2.8111e5d8.chunk.js.map",
-    "static/js/3.0d760b10.chunk.js": "/static/js/3.0d760b10.chunk.js",
-    "static/js/3.0d760b10.chunk.js.map": "/static/js/3.0d760b10.chunk.js.map",
+    "main.js": "/static/js/main.f8a8a6a0.chunk.js",
+    "main.js.map": "/static/js/main.f8a8a6a0.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b8e65126.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b8e65126.js.map",
+    "static/js/2.d45b8476.chunk.js": "/static/js/2.d45b8476.chunk.js",
+    "static/js/2.d45b8476.chunk.js.map": "/static/js/2.d45b8476.chunk.js.map",
+    "static/js/3.baad20bc.chunk.js": "/static/js/3.baad20bc.chunk.js",
+    "static/js/3.baad20bc.chunk.js.map": "/static/js/3.baad20bc.chunk.js.map",
     "index.html": "/index.html",
     "static/css/main.e2884097.chunk.css.map": "/static/css/main.e2884097.chunk.css.map",
-    "static/js/2.8111e5d8.chunk.js.LICENSE.txt": "/static/js/2.8111e5d8.chunk.js.LICENSE.txt",
+    "static/js/2.d45b8476.chunk.js.LICENSE.txt": "/static/js/2.d45b8476.chunk.js.LICENSE.txt",
     "static/media/bgairdrop.400d8d3e.png": "/static/media/bgairdrop.400d8d3e.png",
     "static/media/bghero.328d8303.png": "/static/media/bghero.328d8303.png",
     "static/media/bglitepaper.634228b9.jpg": "/static/media/bglitepaper.634228b9.jpg",
@@ -56,13 +56,17 @@
     "static/media/team7.f36b0385.png": "/static/media/team7.f36b0385.png",
     "static/media/timer.3a84fbf5.svg": "/static/media/timer.3a84fbf5.svg",
     "static/media/tokenomics.78ca2f0e.png": "/static/media/tokenomics.78ca2f0e.png",
+    "static/media/trust_step1.cd8b3579.jpg": "/static/media/trust_step1.cd8b3579.jpg",
+    "static/media/trust_step2.1d46ed19.jpg": "/static/media/trust_step2.1d46ed19.jpg",
+    "static/media/trust_step3.0038c895.jpg": "/static/media/trust_step3.0038c895.jpg",
+    "static/media/upi.14a610ac.svg": "/static/media/upi.14a610ac.svg",
     "static/media/wallet-mm.6d14cba9.svg": "/static/media/wallet-mm.6d14cba9.svg",
     "static/media/wallet-wc.a1aae2e6.svg": "/static/media/wallet-wc.a1aae2e6.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.3b7d859c.js",
-    "static/js/2.8111e5d8.chunk.js",
+    "static/js/runtime-main.b8e65126.js",
+    "static/js/2.d45b8476.chunk.js",
     "static/css/main.e2884097.chunk.css",
-    "static/js/main.452e181a.chunk.js"
+    "static/js/main.f8a8a6a0.chunk.js"
   ]
 }
